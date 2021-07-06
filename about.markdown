@@ -4,15 +4,34 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ <h2 align="center"> You are watching Samir Parhi's Profile </h2>
+ 
+ **About Me:**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+An infrastructure enthusiast with 6+ years of experience in various infrastructure tools, technologies & Design. Passionate about building highly available microservice systems for critical workloads. Establishing the trusted connection between various clusters and the Network. Designing the self-service models end-to-end CICD pipeline. Delivery of end-to-end DevOps projects based on Agile models. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+ <h2 align="center"> Let's solve the real-world problems together !!! </h2>
 
 
-[jekyll-organization]: https://github.com/jekyll
+:hammer: **Tech Stack**
+
+| Infra | Programming Expertise | Databases |
+| :---: | :---: | :---: |
+| Linux | Git, GitLab | My Sql |
+| AWS, Azure(Learning) | Groovy, Shell | Mongo(Learning) |
+| Jenkins, Cloudbees | Python(learning) | Influx |
+| Ansible & Terraform | Go(Learning) | Liqubase |
+| Grafana, Logic Monitor | Type Script(Learning) |  |
+|  CI/CD Scripted Pipeline creation | Maven, Gradle, NPM |  |
+|  Kubernetes, Istio, Docker, rkt |  |  |
+
+
+:telephone_receiver: **Connect**
+
+[LinkedIn](https://www.linkedin.com/in/samir-parhi/)
+
+
+**Thank you for Visiting** :blush: 
+
+:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+
