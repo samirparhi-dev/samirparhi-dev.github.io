@@ -28,7 +28,6 @@ An infrastructure enthusiast with 6+ years of experience in various infrastructu
 **Open-Source Contributions**
 
 [Layer5](https://layer5.io)
-
 [Meshery](https://meshery.io)
 
 **Connect**
