@@ -13,7 +13,7 @@ An infrastructure enthusiast with 6+ years of experience in various infrastructu
  <h2 align="center"> Let's solve the real-world problems together !!! </h2>
 
 
-:hammer: **Tech Stack**
+**Tech Stack**
 
 | Infra | Programming Expertise | Databases |
 | :---: | :---: | :---: |
@@ -25,13 +25,18 @@ An infrastructure enthusiast with 6+ years of experience in various infrastructu
 |  CI/CD Scripted Pipeline creation | Maven, Gradle, NPM |  |
 |  Kubernetes, Istio, Docker, rkt |  |  |
 
+**Open-Source Contributions**
 
-:telephone_receiver: **Connect**
+[Layer5](https://layer5.io)
+
+[Meshery](https://meshery.io)
+
+**Connect**
 
 [LinkedIn](https://www.linkedin.com/in/samir-parhi/)
 
 
-**Thank you for Visiting** :blush: 
+**Thank you for Visiting** 
 
-:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+
 
