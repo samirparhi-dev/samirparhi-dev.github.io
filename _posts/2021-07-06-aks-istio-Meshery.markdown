@@ -2,7 +2,7 @@
 layout: Post
 title:  "Securing the AKS Cluster With Azure Application Gateway, Istio & Meshery"
 date:   2021-07-06 19:17:25 +0530
-categories: jekyll update
+categories: blog
 ---
 Security has been a very key consideration in modern application architecture. When we talk about cloud-native application architecture, people tend to think about security a lot. That is why all the cloud providers have a bunch of features to make your application more secure and robust. For example, Azure provides various gateways like Network security groups, Application gateway, Azure front-door. These azure services provide a secure connection either by introducing a firewall or validating SSL certificates. 
 
