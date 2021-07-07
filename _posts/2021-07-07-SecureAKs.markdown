@@ -77,7 +77,7 @@ Vnet CIDR: 192.168.0.0/20 - total 4,096 Ips (192.168.0.0 to 192.168.15.255)
  
 AKS primary Subnet CIDR: 192.168.0.0/21 - total 2043 IPs (192.168.0.0 - 192.168.7.255)
 
-**Terminology Used in Azure CNI**
+##### Terminology Used in Azure CNI
 
 **Virtual network:** This is the virtual network, where you want to create your K8S Cluster.
 Here, I have taken my Vnet range as 192.168.0.0/20.
