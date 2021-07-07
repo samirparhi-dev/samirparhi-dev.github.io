@@ -40,10 +40,10 @@ hero:
   hero-title: Welcome to <br> ls-lrt.com <br> The DevOps Blog Site
 
 social:
-- {icon: "ti-linkedin", link: "#"}
-- {icon: "ti-github", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/samir-parhi/"}
+- {icon: "ti-github", link: "https://github.com/samirparhi-dev"}
 #- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-twitter", link: "https://twitter.com/samirparhi"}
 
 
 #-------------------------------
