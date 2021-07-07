@@ -9,11 +9,12 @@ An infrastructure enthusiast with 6+ years of experience in various infrastructu
 
  <h2 align="center"> Let's solve the real-world problems together !!! </h2>
 
-
-:telephone_receiver: **Connect**
+**Connect**
 
 [LinkedIn](https://www.linkedin.com/in/samir-parhi/)
+
 [Gmail](samirparhi@gmail.com)
+
 [GithHub](samirparhi-dev)
 
 
