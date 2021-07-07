@@ -7,10 +7,8 @@ image: assets/images/about/author.jpg
 
 An infrastructure enthusiast with 6+ years of experience in various infrastructure tools, technologies & Design. Passionate about building highly available microservice systems for critical workloads. Establishing the trusted connection between various clusters and the Network. Designing the self-service models end-to-end CICD pipeline. Delivery of end-to-end DevOps projects based on Agile models. 
 
-### Let's solve the real-world problems together !!! ###
+## Let's solve the real-world problems together !!! ##
 
- <h2 align="center"> Let's solve the real-world problems together !!! </h2>
- 
  <img src="images/border.gif" width="1100px" height="10px">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samirparhi-dev&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=blueberry" /></p>
