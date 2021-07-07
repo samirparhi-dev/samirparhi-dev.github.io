@@ -106,13 +106,13 @@ In my scenario, I am choosing 192.168.12.2/28(total 16 IPs (192.168.12.0 - 192.1
 
 **DNS name prefix:** This is the DNS name that will be resolved for the API server of the Kubernetes cluster. You will use this FQDN to access your API server after you host your AKS cluster and the application.
 
-### What is Azure Application Gateway?
+#### What is Azure Application Gateway?
 Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications. This also provides the firewall capability to secure the traffic to your application. Below image from Microsoft documentation.
 
 <a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc2.png?raw=true" width="500px" height="300px" ></a>
 
 
-### Our Solution Architecture Diagram:
+#### Our Solution Architecture Diagram:
 
 <a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc3.jpeg?raw=true" width="1000px" height="400px" ></a>
 
@@ -120,7 +120,7 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 Explanation:
 when users request for the website, it reaches the name server from where you have purchased your DNS (it can be azure or any 3rd party). From the name server, it finds A record and directed to the public IP of the Azure application gateway. When the request reaches the Application gateway, it validates the SSL certificate and runs the firewall rules too. then the Rules in the application gateway redirect it to its proper backend. The backend-pool for the application gateway is the istio ingress gateway. As we are constructing a fully private cluster (meaning all the IPs in the AKS cluster are private IPs) we have used DNS private Zone to implement a trusted connection between all the azure services in our VNET
 
-### Put things into Action:
+#### Put things into Action:
 
 Step 1. Create a resource group name `k8s-rg` in `centralindia` location (make sure to set the subscription first( here I am using my subscription named `Azure`)
 
@@ -246,12 +246,12 @@ az network application-gateway create \
 ```
 With this, we have successfully created our azure application gateway and also the backend is set to the istio ingress gateway. Now the application gateway will be able to forward traffic to the istio ingress gateway and also get the response from the Istio gateway.
 
-Credits:
-- Azure Docs (https://docs.microsoft.com/en-us/azure/?product=featured)
-- Istio (https://istio.io/latest/)
-- Meshery (https://meshery.io/)
-- Layer 5 (https://layer5.io/)
-
+**Credits:**
+- [Azure Docs](https://docs.microsoft.com/en-us/azure/?product=featured)
+- [Istio](https://istio.io/latest/)
+- [Meshery](https://meshery.io/)
+- [Layer 5](https://layer5.io/)
+-------
 I hope you like this blog post. Please let me know your thoughts on it and suggest if you would like me to write on a specific topic.
 
-Cheers :-)
+Cheers !!!
