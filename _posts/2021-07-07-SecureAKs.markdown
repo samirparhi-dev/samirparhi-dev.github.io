@@ -250,7 +250,7 @@ With this, we have successfully created our azure application gateway and also t
 - [Azure Docs](https://docs.microsoft.com/en-us/azure/?product=featured)
 - [Istio](https://istio.io/latest/)
 - [Meshery](https://meshery.io/)
-- [Layer 5](https://layer5.io/)
+- [Layer5](https://layer5.io/)
 -------
 I hope you like this blog post. Please let me know your thoughts on it and suggest if you would like me to write on a specific topic.
 
