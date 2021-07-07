@@ -10,19 +10,25 @@ An infrastructure enthusiast with 6+ years of experience in various infrastructu
 ## Let's solve the real-world problems together !!! ##
 
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samirparhi-dev&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=blueberry" /></p>
  
 
+
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samirparhi-dev&hide_border=true&theme=blueberry" width="46%" height="160px">
 
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirparhi-dev&layout=compact&theme=blueberry" width="46%" height="160px"/>
+
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=samirparhi-dev&theme=blueberry&column=8&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 
+
 <img src="https://activity-graph.herokuapp.com/graph?username=samirparhi-dev&bg_color=FBFFFF&color=454848&line=0A2CEA&point=E7110B&hide_border=false" />
 <img src="images/border.gif" width="1100px" height="10px">
+
 
 **Connect**
 
