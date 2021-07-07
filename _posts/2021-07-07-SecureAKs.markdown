@@ -85,7 +85,7 @@ Here, I have taken my Vnet range as 192.168.0.0/20.
 **Cluster Subnet:** This is the Subnet inside which your K8S cluster will be created. Please note that you Should create the subnet prior to create the AKS cluster and, it should have sufficient address space. The address space requirement explained at the beginning of this document.
 For example, I am choosing 192.168.0.0/21 range as my subnet for the cluster.
 
-**Kubernetes service address range: **This is the  CIDR or IP range that is the K8S services will be using. Please note that this IP range must not be part of any of the subnets in your cluster. In simple words, it should be different from your subnet IP ranges. Important to note that this IP range should be in the range of your VNET IP range. 
+**Kubernetes service address range:** This is the  CIDR or IP range that is the K8S services will be using. Please note that this IP range must not be part of any of the subnets in your cluster. In simple words, it should be different from your subnet IP ranges. Important to note that this IP range should be in the range of your VNET IP range. 
  
 For example, this address range can not be in 192.168.0.0/21 range, as my cluster subnet is using it, but it should be in 192.168.0.0/20 range. So I am choosing 192.168.8.0/22 (total 1024 IPs (192.168.8.0 - 192.168.11.255))
  
@@ -98,11 +98,12 @@ For example,  in Kubernetes service address range is 192.168.8.0/22. Kubernetes
 Few things to remember :
  
 1. This range should not be in the range of the Kubernetes service address range. In this case 192.168.8.0/22.
-2. Addresses matching the format *.*.*.0 or *.*.*.255 are reserved and cannot be used.
+2. Addresses matching the format `*.*.*.0` or `*.*.*.255` are reserved and cannot be used.
 3. The prefix must be between 1 and 29.
 4. The IP address cannot be the first or last address in its CIDR block
+
 In my scenario, I am choosing 192.168.12.2/28(total 16 IPs (192.168.12.0 - 192.168.12.15)), which satisfies all the above conditions
- 
+
 **DNS name prefix:** This is the DNS name that will be resolved for the API server of the Kubernetes cluster. You will use this FQDN to access your API server after you host your AKS cluster and the application.
 
 ### What is Azure Application Gateway?
@@ -113,7 +114,7 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 
 ### Our Solution Architecture Diagram:
 
-<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc3.jpeg?raw=true" width="1100px" height="600px" ></a>
+<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc3.jpeg?raw=true" width="1200px" height="400px" ></a>
 
 
 Explanation:
