@@ -65,7 +65,9 @@ Tip:
 
 > 
 Below table shows Private address ranges available for consumption
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1625411983037/iKgxWrv3ML.png)
+
+<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc4.png?raw=true" width="1100px" height="100px" ></a>
+
 
 **CIDRs**
 
@@ -108,13 +110,11 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 
 <a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc2.png?raw=true" width="500px" height="300px" ></a>
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1625413330611/zKSvQ-Q97.png)
 
 ### Our Solution Architecture Diagram:
 
-<img src="assets/images/blog/sc3.png" width="1100px" height="500px"/>
+<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc3.png?raw=true" width="1100px" height="600px" ></a>
 
-![infra-Page-3.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1625416734350/yCoK5OfaA.jpeg)
 
 Explanation:
 when users request for the website, it reaches the name server from where you have purchased your DNS (it can be azure or any 3rd party). From the name server, it finds A record and directed to the public IP of the Azure application gateway. When the request reaches the Application gateway, it validates the SSL certificate and runs the firewall rules too. then the Rules in the application gateway redirect it to its proper backend. The backend-pool for the application gateway is the istio ingress gateway. As we are constructing a fully private cluster (meaning all the IPs in the AKS cluster are private IPs) we have used DNS private Zone to implement a trusted connection between all the azure services in our VNET
@@ -220,7 +220,7 @@ now let's add an `A` record for our istio ingress gateway so that it is discover
 
 go to the `privatelink.centralindia.azmk8s.io` private DNS resource that was created and click on recordset and add an `A` Record as shown below and save it.
 
-![Screenshot 2021-07-05 at 12.19.00 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1625424923046/y0w2Fw6zH.png)
+<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc1.png?raw=true" width="1100px" height="600px" ></a>
 
 With this, we have successfully created a cluster and it is private. Now it can not receive any request from the web. But this is discoverable in the azure internal network as we have set up a private DNS zone. To enable the request from the internet let's create an application gateway.
 
