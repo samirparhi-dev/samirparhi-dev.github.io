@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Samir Ranjan Parhi
 image: assets/images/about/author.jpg
 ---
 
