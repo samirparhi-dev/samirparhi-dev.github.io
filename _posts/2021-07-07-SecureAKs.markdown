@@ -106,7 +106,7 @@ In my scenario, I am choosing 192.168.12.2/28(total 16 IPs (192.168.12.0 - 192.1
 ### What is Azure Application Gateway?
 Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications. This also provides the firewall capability to secure the traffic to your application. Below image from Microsoft documentation.
 
-<img src="samirparhi-dev.github.io/assets/images/blog/sc2.png" width="500px" height="500px"/>
+<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc2.png?raw=true" width="500px" height="300px" ></a>
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1625413330611/zKSvQ-Q97.png)
 
