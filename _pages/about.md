@@ -10,19 +10,6 @@ An infrastructure enthusiast with 6+ years of experience in various infrastructu
  <h2 align="center"> Let's solve the real-world problems together !!! </h2>
 
 
-:hammer: **Tech Stack**
-
-| Infra | Programming Expertise | Databases |
-| :---: | :---: | :---: |
-| Linux | Git, GitLab | My Sql |
-| AWS, Azure(Learning) | Groovy, Shell | Mongo(Learning) |
-| Jenkins, Cloudbees | Python(learning) | Influx |
-| Ansible & Terraform | Go(Learning) | Liqubase |
-| Grafana, Logic Monitor | Type Script(Learning) |  |
-|  CI/CD Scripted Pipeline creation | Maven, Gradle, NPM |  |
-|  Kubernetes, Istio, Docker, rkt |  |  |
-
-
 :telephone_receiver: **Connect**
 
 [LinkedIn](https://www.linkedin.com/in/samir-parhi/)
