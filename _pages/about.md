@@ -11,7 +11,12 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 
 <img src="images/border.gif" width="1100px" height="10px"> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samirparhi-dev&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=blueberry" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samirparhi-dev&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=blueberry" /></p>
+
+<p style="text-align:right;">Currenty Contributing to
+<li><a href="https://layer5.io">Layer5</a></li>
+<li><a href="https://meshery.io">Meshery</a></li>
+   </p>
  
  <img src="images/border.gif" width="1100px" height="10px"> 
 
