@@ -253,6 +253,7 @@ With this, we have successfully created our azure application gateway and also t
 - [Layer5](https://layer5.io/)
 
 -------
+
 I hope you like this blog post. Please let me know your thoughts on it and suggest if you would like me to write on a specific topic.
 
 Cheers !!!
