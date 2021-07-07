@@ -113,7 +113,7 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 
 ### Our Solution Architecture Diagram:
 
-<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc3.png?raw=true" width="1100px" height="600px" ></a>
+<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc3.jpeg?raw=true" width="1100px" height="600px" ></a>
 
 
 Explanation:
@@ -220,7 +220,7 @@ now let's add an `A` record for our istio ingress gateway so that it is discover
 
 go to the `privatelink.centralindia.azmk8s.io` private DNS resource that was created and click on recordset and add an `A` Record as shown below and save it.
 
-<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc1.png?raw=true" width="1100px" height="600px" ></a>
+<a href="url"><img src="https://github.com/samirparhi-dev/samirparhi-dev.github.io/blob/main/assets/images/blog/sc1.png?raw=true" width="1100px" height="300px" ></a>
 
 With this, we have successfully created a cluster and it is private. Now it can not receive any request from the web. But this is discoverable in the azure internal network as we have set up a private DNS zone. To enable the request from the internet let's create an application gateway.
 
