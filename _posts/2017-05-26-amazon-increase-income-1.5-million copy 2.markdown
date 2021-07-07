@@ -2,7 +2,7 @@
 layout: post
 title:  "Securing the AKS Cluster With Azure Application Gateway, Istio & Meshery"
 date:   2021-07-06 19:17:25 +0530
-image:  /assets/images/blog/post-5.jpg
+image:  /assets/images/blog/post-5.jpeg
 author: samirparhi-dev
 tags:   azure, Istio, Meshery
 ---
