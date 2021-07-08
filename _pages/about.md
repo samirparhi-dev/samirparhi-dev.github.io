@@ -45,7 +45,6 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samirparhi-dev&hide_border=true&theme=blueberry" width="46%" height="160px">
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirparhi-dev&layout=compact&theme=blueberry" width="46%" height="160px"/>
 
 <img src="images/border.gif" width="1100px" height="10px"> 
