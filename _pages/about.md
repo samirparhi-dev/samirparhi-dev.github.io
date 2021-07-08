@@ -9,7 +9,8 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 
 ### Let's solve the real-world problems together !!! ###
 
- ![](https://komarev.com/ghpvc/?username=samirparhi-dev&color=blueviolet)
+
+![](https://komarev.com/ghpvc/?username=samirparhi-dev&color=blueviolet)
 
 <img src="images/border.gif" width="1100px" height="10px"> 
 
