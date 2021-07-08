@@ -14,7 +14,8 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 
 <img src="images/border.gif" width="1100px" height="10px"> 
 
-**Tech Stack**
+### Tech Stack: ###
+<img src="images/border.gif" width="1100px" height="10px"> 
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-pale?style=flat-square&logo=kubernetes) 
 ![Istio](https://img.shields.io/badge/-Istio-yellow?style=flat-square&logo=istio)  ![Go](https://img.shields.io/badge/-Go-cyan?style=flat-square&logo=go) 
@@ -25,7 +26,10 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 ![Ansible](https://img.shields.io/badge/-Ansible-yellow?style=flat-square&logo=ansible)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux)
 
+<img src="images/border.gif" width="1100px" height="10px"> 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samirparhi-dev&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=blueberry" /></p>
+
 <h5 style="text-align:right;">Currenty Contributing to: </h5>
 <p align="center">
   <a href="https://layer5.io"><img src="https://img.shields.io/badge/-Layer5-blueviolet?style=for-the-badge&logo=layer5" ></a>
@@ -41,7 +45,6 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samirparhi-dev&hide_border=true&theme=blueberry" width="46%" height="160px">
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirparhi-dev&layout=compact&theme=blueberry" width="46%" height="160px"/>
 
 <img src="images/border.gif" width="1100px" height="10px"> 
@@ -53,9 +56,9 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 <img src="https://activity-graph.herokuapp.com/graph?username=samirparhi-dev&bg_color=FBFFFF&color=454848&line=0A2CEA&point=E7110B&hide_border=false" />
 <img src="images/border.gif" width="1100px" height="10px">
 
-<img src="images/border.gif" width="1100px" height="10px"> 
 
-**Connect**
+### Connect: ###
+<img src="images/border.gif" width="1100px" height="10px"> 
 
 <p align="center">
   <a href="https://linkedin.com/in/samir-parhi"><img src="https://img.shields.io/badge/-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin" ></a>
@@ -64,5 +67,3 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
   <a href="https://github.com/samirparhi-dev"><img src="https://img.shields.io/badge/-GitHub-orange?style=for-the-badge&logo=github" ></a>
 </p>
 
-
-**Thank you for Visiting** 
