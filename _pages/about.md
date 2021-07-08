@@ -25,11 +25,17 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samirparhi-dev&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=blueberry" /></p>
+<h5 style="text-align:right;">Currenty Contributing to: </h5>
+<p align="center">
+  <a href="https://layer5.io"><img src="https://img.shields.io/badge/-Layer5-blueviolet?style=for-the-badge&logo=layer5" ></a>
+  <a href="https://meshery.io"><img src="https://img.shields.io/badge/-Meshery-blue?style=for-the-badge&logo=meshery" ></a>
+</p>
 
-<h5 style="text-align:right;">Currenty Contributing to </h5>
+
+<!-- <h5 style="text-align:right;">Currenty Contributing to </h5>
 <p style="text-align:center;"><a href="https://layer5.io">Layer5</a></p>
 <p style="text-align:center;"><a href="https://meshery.io">Meshery</a></p>
-   
+    -->
  <img src="images/border.gif" width="1100px" height="10px"> 
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samirparhi-dev&hide_border=true&theme=blueberry" width="46%" height="160px">
