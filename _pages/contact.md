@@ -7,6 +7,7 @@ title: Contacts
    <img src="images/border.gif" width="1100px" height="10px"> 
 
 ### Connect with Me: ###
+<h5 style="text-align:center;">Connect with Me: </h5>
 <img src="images/border.gif" width="1100px" height="10px"> 
 
 <p align="center">
