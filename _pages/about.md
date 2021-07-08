@@ -67,5 +67,3 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
   <a href="https://github.com/samirparhi-dev"><img src="https://img.shields.io/badge/-GitHub-orange?style=for-the-badge&logo=github" ></a>
 </p>
 
-
-**Thank you for Visiting** 
