@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: Contacts
 ---
@@ -10,6 +9,3 @@ title: Contacts
   <a href="mailto:samirparhi@gmail.com"><img src="https://img.shields.io/badge/-Mail-cyan?style=for-the-badge&logo=gmail" ></a>
   <a href="https://github.com/samirparhi-dev"><img src="https://img.shields.io/badge/-GitHub-orange?style=for-the-badge&logo=github" ></a>
 </p>
-
-
-**Thank you for Visiting** 
