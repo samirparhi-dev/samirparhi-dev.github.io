@@ -14,7 +14,7 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 
 <img src="images/border.gif" width="1100px" height="10px"> 
 
-**Tech Stack**
+### Tech Stack ###
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-pale?style=flat-square&logo=kubernetes) 
 ![Istio](https://img.shields.io/badge/-Istio-yellow?style=flat-square&logo=istio)  ![Go](https://img.shields.io/badge/-Go-cyan?style=flat-square&logo=go) 
@@ -55,7 +55,7 @@ An infrastructure enthusiast and an Open-Source Enthusiast. More than 6 years of
 
 <img src="images/border.gif" width="1100px" height="10px"> 
 
-**Connect**
+### Connect: ###
 
 <p align="center">
   <a href="https://linkedin.com/in/samir-parhi"><img src="https://img.shields.io/badge/-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin" ></a>
