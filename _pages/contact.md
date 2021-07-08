@@ -2,6 +2,12 @@
 layout: page
 title: Contacts
 ---
+ <img src="images/border.gif" width="1100px" height="10px"> 
+  <img src="images/border.gif" width="1100px" height="10px"> 
+   <img src="images/border.gif" width="1100px" height="10px"> 
+
+### Connect with Me: ###
+<img src="images/border.gif" width="1100px" height="10px"> 
 
 <p align="center">
   <a href="https://linkedin.com/in/samir-parhi"><img src="https://img.shields.io/badge/-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin" ></a>
